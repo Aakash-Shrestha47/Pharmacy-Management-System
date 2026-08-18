@@ -1,21 +1,43 @@
-# Pharmacy Management System – User Stories
+# Pharmacy Management System - User Stories
 
-- **US01:** As a pharmacy staff member, I want to log into the system securely, so that only authorized users can access pharmacy information.
+## Product Backlog
 
-- **US02:** As a pharmacist, I want to add, update, and remove medicine records, so that the medicine catalog remains accurate.
+### US01 - Secure Login
 
-- **US03:** As a pharmacist, I want to view current medicine quantities, so that I can monitor available inventory.
+As a pharmacy staff member, I want to log into the system securely, so that only authorized users can access pharmacy information.
 
-- **US04:** As a pharmacist, I want to receive low stock alerts, so that medicines can be reordered before they run out.
+### US02 - Medicine Management
 
-- **US05:** As a pharmacy staff member, I want to search for medicines by name or category, so that I can quickly find required medicine information.
+As a pharmacist, I want to add, update, and remove medicine records, so that the medicine catalog remains accurate.
 
-- **US06:** As a pharmacist, I want to record and manage customer prescriptions, so that prescription information can be maintained accurately.
+### US03 - Inventory Monitoring
 
-- **US07:** As a cashier, I want to process medicine sales and generate bills, so that customers can receive accurate purchase records.
+As a pharmacist, I want to view current medicine quantities, so that I can monitor available inventory.
 
-- **US08:** As a pharmacy manager, I want to manage supplier information, so that medicine suppliers can be tracked and contacted when stock needs replenishment.
+### US04 - Low Stock Alerts
 
-- **US09:** As a pharmacy manager, I want to view sales and inventory reports, so that pharmacy performance and stock levels can be monitored.
+As a pharmacist, I want to receive low stock alerts, so that medicines can be reordered before they run out.
 
-- **US10:** As an administrator, I want to manage staff accounts and access roles, so that system permissions can be controlled appropriately.
+### US05 - Medicine Search
+
+As a pharmacy staff member, I want to search for medicines by name or category, so that I can quickly find required medicine information.
+
+### US06 - Prescription Management
+
+As a pharmacist, I want to record and manage customer prescriptions, so that prescription information can be maintained accurately.
+
+### US07 - Sales and Billing
+
+As a cashier, I want to process medicine sales and generate bills, so that customers can receive accurate purchase records.
+
+### US08 - Supplier Management
+
+As a pharmacy manager, I want to manage supplier information, so that medicine suppliers can be tracked and contacted when stock needs replenishment.
+
+### US09 - Sales and Inventory Reports
+
+As a pharmacy manager, I want to view sales and inventory reports, so that pharmacy performance and stock levels can be monitored.
+
+### US10 - Staff Account and Role Management
+
+As an administrator, I want to manage staff accounts and access roles, so that system permissions can be controlled appropriately.
